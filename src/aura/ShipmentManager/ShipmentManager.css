@@ -1,0 +1,11 @@
+.THIS div.container {
+    margin-top: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.THIS input.required {
+    border: red;
+    border-style: solid;
+    border-width: 1px;
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ShipmentManager</members>
+        <members>ShipmentManagerTest</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Box__c.Amount__c</members>
+        <members>Box__c.Container__c</members>
+        <members>Box__c.Date_Received__c</members>
+        <members>Box__c.Depth__c</members>
+        <members>Box__c.Height__c</members>
+        <members>Box__c.Surface_Area__c</members>
+        <members>Box__c.Volume__c</members>
+        <members>Box__c.Width__c</members>
+        <members>Container__c.End_Date__c</members>
+        <members>Container__c.Start_Date__c</members>
+        <name>CustomField</name>
+    </types>
+    <version>37.0</version>
+</Package>
